@@ -1,0 +1,18 @@
+{
+    "author": "MY.VR ARENA GmbH",
+    "description": "AVICA Unity plugin",
+    "displayName": "AVICA",
+    "keywords": [
+        "avica"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "name": "com.avica.capture",
+    "unity": "2020.3",
+    "unityRelease": "18f1",
+    "version": "0.1.0",
+    "dependencies": {
+        "jillejr.newtonsoft.json-for-unity": "13.0.102",
+        "jp.keijiro.ffmpeg-out": "1.0.5"
+    }
+}
