@@ -27,7 +27,7 @@ Importing the package is simple, just drag it into your Assets or Packages folde
 
 ## Setting up AVICA Manager
 
-This is a relatively simple process, simple add AVICAManager to your scene and set the `Platform Id`, `Partner Id` and `User Id`. Currently AVICAManager _is not_ persisted between scenes, so you will need to add it to any scenes you wish to use it in.
+This is a relatively simple process, simple add AVICA Capture Manager to your scene and set the `Platform Id`, `Partner Id` and `User Id`. Currently AVICA Capture Manager _is not_ persisted between scenes, so you will need to add it to any scenes you wish to use it in.
 
 ## Setting up the player
 
